@@ -1,7 +1,7 @@
 {
-  "name": "my-farcaster-miniapp",
+  "name": "test3",
   "version": "1.0.0",
-  "description": "A Farcaster mini app built with the Fixr template",
+  "description": "test3 - A Farcaster mini app",
   "private": true,
   "keywords": [
     "farcaster",
@@ -26,7 +26,8 @@
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
     "viem": "^2.21.0",
-    "wagmi": "^2.14.0"
+    "wagmi": "^2.14.0",
+    "@zoralabs/coins-sdk": "^0.0.1"
   },
   "devDependencies": {
     "@types/node": "^20",
